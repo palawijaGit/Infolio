@@ -1,0 +1,44 @@
+
+INFOLIO VER 1.0.0
+------------------
+
+Development gathering requirement
+----------------------------------
+Introduction
+----------------
+	- introduction 
+	- problem statement
+	- objective project
+	- scope project
+	- end users
+			- admin
+			- student
+			- lecturer
+	- methodology
+
+
+problem analysis and spesification
+----------------------------------
+	- problem analysis
+	- functional spesification
+	- non functional spesification
+			- C++
+			- QtLibrary
+			- STL (Standard Library)
+
+
+Design
+------
+	- project design interface
+	- project design process
+			- activity diagram(admin, student, lecturer)
+			
+	- project design data
+			- UML class diagram
+
+
+implementation and testing
+- implementation
+- testing
+
+
