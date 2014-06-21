@@ -1,4 +1,4 @@
-Infolio
+Infovalio
 =======
 
-Iinfolio is one of the application client and server 
+Iinfovalio is one of the application client and server 
